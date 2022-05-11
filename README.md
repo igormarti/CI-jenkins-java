@@ -1,5 +1,5 @@
 # CI-jenkins-java
-This project was done in the course Continuous integration with tests, using Jenkins of the teach Francisco Wagner. So, I  really learned a lot, it was amazing experience and certainly I recommend this course.
+This project was done in the course Continuous integration with tests, using Jenkins of the teach Francisco Wagner. So, I  really learned a lot, it was an amazing experience and certainly I recommend this course.
 
 # Recommendations
 
